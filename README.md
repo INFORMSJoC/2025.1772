@@ -35,7 +35,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 This repository contains a C++ implementation of the algorithm proposed in the paper **Asynchronous Cooperative Optimization of a Capacitated Vehicle Routing Problem Solution** by Luca Accorsi, Demetrio Laganà, Federico Michelotto, Roberto Musmanno, Daniele Vigo.
 
-The repository includes the source code of algorithm, the benchmark instances, and detailed computational results.  
+The repository includes the source code of algorithm, the benchmark instances, and aggregate computational results.  
 
 ### Running the code
 ```
@@ -54,7 +54,7 @@ make -j
 This repository includes the following materials:
 
 * `instances`: literature instances used during the experiments.
-* `results`: detailed computational results part of the online supplement of the paper and referenced in the paper appendix.
+* `results`: aggregate computational results part of the online supplement of the paper and referenced in the paper appendix.
 * `src`: algorithm source code.
 
 ## Ongoing Development
